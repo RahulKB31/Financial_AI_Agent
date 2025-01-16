@@ -83,7 +83,7 @@ This script demonstrates the use of the Multi-AI Agent by executing a sample tas
 
 Below is a sample screenshot of the playground app:
 
-![Playground Screenshot](images/screenshot.png "Phidata Playground in action")
+![Playground Screenshot](https://github.com/RahulKB31/Financial_AI_Agent/blob/main/phidata_playground.jpg "Phidata Playground in action")
 
 
 ---
